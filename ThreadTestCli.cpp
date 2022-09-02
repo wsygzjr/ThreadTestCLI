@@ -67,6 +67,8 @@ void sen(SOCKET con)
     }
 }
 
+int abc;
+
 int main()
 {
     init_Socket();
